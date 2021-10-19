@@ -8,4 +8,4 @@ NLP 설치 : https://konlpy-ko.readthedocs.io/ko/v0.4.3/<br/>
 
 beautifulsoup4, PYQT5 필요<br/>
 * pip install beautifulsoup4<br/>
-* pip install pyqt5*
+* pip install pyqt5
